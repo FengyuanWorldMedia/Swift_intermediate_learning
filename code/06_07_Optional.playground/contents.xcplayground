@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='目录'/>
+        <page name='01-我是枚举类型'/>
+        <page name='02-RawPresentable协议中Optional的使用'/>
+        <page name='03-刮刮乐'/>
+        <page name='04-IUOs'/>
+        <page name='05-介绍我自己'/>
+        <page name='06-表示不存在-对象外-处理失败'/>
+        <page name='07-翻牌'/>
+        <page name='Prohibited optionals'/>
+        <page name='Returning an optional string'/>
+        <page name='Granular unwrapping'/>
+        <page name='First exercises'/>
+        <page name='First answers'/>
+        <page name='Fallback values'/>
+        <page name='Optional enums'/>
+        <page name='Optional chaining'/>
+    </pages>
+</playground>

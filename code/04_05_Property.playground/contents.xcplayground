@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='目录'/>
+        <page name='01-会计的抱怨'/>
+        <page name='02-伪装成属性的方法'/>
+        <page name='03-活太重露馅了  '/>
+        <page name='04-被赞赏的懒惰  '/>
+        <page name='05-懒得让你想不到'/>
+        <page name='Run with computed properties'/>
+        <page name='Run with computed properties setter'/>
+        <page name='LearningPlan'/>
+        <page name='LearningPlan with a lazy property'/>
+        <page name='LearningPlan with a breaking lazy property'/>
+        <page name='LearningPlan with a lazy private setter'/>
+        <page name='LearningPlan lazy loading before copying'/>
+        <page name='LearningPlan lazy loading after copying'/>
+        <page name='Property observer'/>
+        <page name='Property observer initializer'/>
+        <page name='Exercises'/>
+        <page name='Answers'/>
+    </pages>
+</playground>

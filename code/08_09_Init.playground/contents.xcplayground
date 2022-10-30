@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='目录'/>
+        <page name='01-结构体初始化'/>
+        <page name='02-结构体增加初始化方法'/>
+        <page name='03-类的初始化'/>
+        <page name='04-继承父类初始化方法'/>
+        <page name='05-失去父类初始化方法'/>
+        <page name='06-重写Designated初始化方法'/>
+        <page name='07-减少初始化方法'/>
+        <page name='08-怪兽生产工厂'/>
+    </pages>
+</playground>

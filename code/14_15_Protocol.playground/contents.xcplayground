@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='目录'/>
+        <page name='01-协议概念'/>
+        <page name='02-协议和范型混合使用'/>
+        <page name='03-协议关联类型的检查'/>
+        <page name='04-协议关联类型的约束'/>
+        <page name='05-类继承和协议继承'/>
+        <page name='06-协议扩展中的构造方法-1'/>
+        <page name='06-协议扩展中的构造方法-2'/>
+        <page name='07-扩展Built-in数据类型'/>
+        <page name='08-协议的交集'/>
+        <page name='09-方法的调用优先级顺序'/>
+        <page name='10-扩展遵循指定的协议'/>
+    </pages>
+</playground>

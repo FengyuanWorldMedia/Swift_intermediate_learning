@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='目录'/>
+        <page name='01-Error协议'/>
+        <page name='02-恢复起始原状-Defer'/>
+        <page name='03-保持异常前状态-Undo'/>
+        <page name='03-保持异常前状态-Undo-ver2'/>
+        <page name='04-Retry机制'/>
+        <page name='05-异常的传播'/>
+        <page name='06-统一异常处理'/>
+        <page name='07-处理异常结果Result'/>
+    </pages>
+</playground>

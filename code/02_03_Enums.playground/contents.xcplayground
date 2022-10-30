@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='目录'/>
+        <page name='01-玩家入局消息'/>
+        <page name='02-牌局系统消息'/>
+        <page name='03-用枚举统一牌局消息'/>
+        <page name='04-RawValue复习'/>
+        <page name='05-分出胜负'/>
+        <page name='06-满载的后备箱'/>
+        <page name='07-回家的路'/>
+    </pages>
+</playground>

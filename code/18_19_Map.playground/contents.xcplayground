@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='目录'/>
+        <page name='01-Map-For比较'/>
+        <page name='02-map-sequence'/>
+        <page name='03-map-dict'/>
+        <page name='04-map-optional'/>
+        <page name='05-map-chain'/>
+        <page name='06-flatMap-1'/>
+        <page name='06-flatMap-2'/>
+        <page name='07-flatMap-Optional-1'/>
+        <page name='07-flatMap-Optional-2'/>
+        <page name='08-compactMap'/>
+    </pages>
+</playground>

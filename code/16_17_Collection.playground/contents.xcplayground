@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='目录'/>
+        <page name='01-迭代器协议'/>
+        <page name='02-Sequence协议介绍'/>
+        <page name='03-Sequence常用方法'/>
+        <page name='04-SortComparator'/>
+        <page name='05-遵循Sequence协议'/>
+        <page name='06-升级的狼人军队'/>
+        <page name='06-升级的狼人军队-2'/>
+        <page name='07-Sequence类型遍历问题'/>
+        <page name='08-MutableCollection'/>
+        <page name='09-RangeReplaceableCollection'/>
+        <page name='10-BidirectionalCollection'/>
+        <page name='11-RandomAccessCollection'/>
+        <page name='12-遵循Collection协议'/>
+    </pages>
+</playground>

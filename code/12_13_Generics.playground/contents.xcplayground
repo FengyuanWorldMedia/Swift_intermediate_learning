@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='目录'/>
+        <page name='01-武装的怪兽狼人'/>
+        <page name='02-武装到牙齿'/>
+        <page name='03-多功能弹夹'/>
+        <page name='03-多功能弹夹-2'/>
+        <page name='04-通信DataModel定义和解析'/>
+        <page name='05-Hashable协议概念'/>
+        <page name='05-Hashable协议概念-2'/>
+        <page name='06-不同类型的子弹比较'/>
+        <page name='07-出膛记录'/>
+        <page name='08-不公平的定义'/>
+        <page name='09-斗枪'/>
+    </pages>
+</playground>
